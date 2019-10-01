@@ -52,3 +52,8 @@ const partner = muppet.partner
 
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
+const k_color = k_muppet.k_color;
+const song_2 = k_muppet.k_album.the_muppet_movie.song_2;
+const song_4 = k_muppet.k_album.the_muppet_movie.song_4;
+const k_job = k_muppet.k_job;
+const k_partner = k_muppet.k_partner;
